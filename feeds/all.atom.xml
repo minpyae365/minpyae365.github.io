@@ -37,7 +37,7 @@
 &lt;p&gt;&lt;a href="https://github.com/minpyae365/newtaipei_houseprediction"&gt;Link to Github Repository&lt;/a&gt;&lt;/p&gt;</content><category term="Analysis"></category><category term="Python"></category><category term="Data Analysis"></category><category term="Data Visualization"></category><category term="Jupyter Notebook"></category><category term="Data Science"></category><category term="Machine Learning"></category><category term="AWS"></category><category term="Flask"></category></entry><entry><title>Flask Blog</title><link href="https://minpyae365.github.io/flask-blog.html" rel="alternate"></link><published>2021-06-03T10:20:00+08:00</published><updated>2021-06-03T10:20:00+08:00</updated><author><name>Steven</name></author><id>tag:minpyae365.github.io,2021-06-03:/flask-blog.html</id><summary type="html">&lt;h2&gt;A blog web application&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;This is a flask blog I made coding along with Corey Schafer's youtube series.&lt;/p&gt;
+&lt;p&gt;This is a CRUD app I made coding along with Corey Schafer's youtube series.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Made a simple looking UI with Bootstrap, HTML/CSS at frontend and Flask at backend.&lt;/p&gt;
@@ -49,7 +49,7 @@
 &lt;p&gt;Integrated SQLite database for every data coming in and going …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;A blog web application&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;This is a flask blog I made coding along with Corey Schafer's youtube series.&lt;/p&gt;
+&lt;p&gt;This is a CRUD app I made coding along with Corey Schafer's youtube series.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Made a simple looking UI with Bootstrap, HTML/CSS at frontend and Flask at backend.&lt;/p&gt;
@@ -71,12 +71,11 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img alt="Text Alt" src="/images/flaskblog.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/minpyae365/Coursera_Capstone"&gt;Link to Github Repository&lt;/a&gt;&lt;/p&gt;</content><category term="Review"></category><category term="Python"></category><category term="Flask"></category><category term="Jinja"></category><category term="Web Development"></category><category term="Bootstrap"></category><category term="Database"></category></entry><entry><title>Battle of Neighborhoods</title><link href="https://minpyae365.github.io/battle-of-neighborhoods.html" rel="alternate"></link><published>2020-12-03T10:20:00+08:00</published><updated>2020-12-03T10:20:00+08:00</updated><author><name>Steven</name></author><id>tag:minpyae365.github.io,2020-12-03:/battle-of-neighborhoods.html</id><summary type="html">&lt;h2&gt;A visualization and analysis project on choosing a neighborhood based on someone's interests and concerns.&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://stevenflaskblog.herokuapp.com/"&gt;Link to the blog&lt;/a&gt;&lt;/p&gt;</content><category term="Review"></category><category term="Python"></category><category term="Flask"></category><category term="Jinja"></category><category term="Web Development"></category><category term="Bootstrap"></category><category term="Database"></category></entry><entry><title>Battle of Neighborhoods</title><link href="https://minpyae365.github.io/battle-of-neighborhoods.html" rel="alternate"></link><published>2020-12-03T10:20:00+08:00</published><updated>2020-12-03T10:20:00+08:00</updated><author><name>Steven</name></author><id>tag:minpyae365.github.io,2020-12-03:/battle-of-neighborhoods.html</id><summary type="html">&lt;h2&gt;A visualization and analysis project on choosing a neighborhood based on someone's interests and concerns.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;This is a project submission I made for coursea x IBM on Applied Data Science course. &lt;/li&gt;
-&lt;li&gt;This is a self project about a student trying to choose the best neighborhood for him based on his …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;A visualization and analysis project on choosing a neighborhood based on someone's interests and concerns.&lt;/h2&gt;
+&lt;li&gt;This is a self project about a student trying to choose the best neighborhood for him based on his interests and concerns.&lt;/li&gt;
+&lt;li&gt;Worked with multiple datasets such as New York crime data, foursquare API and …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;A visualization and analysis project on choosing a neighborhood based on someone's interests and concerns.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;This is a project submission I made for coursea x IBM on Applied Data Science course. &lt;/li&gt;
 &lt;li&gt;This is a self project about a student trying to choose the best neighborhood for him based on his interests and concerns.&lt;/li&gt;
 &lt;li&gt;Worked with multiple datasets such as New York crime data, foursquare API and New York geojson, to get insights from these data sources.&lt;/li&gt;
 &lt;li&gt;Dealed with json data.&lt;/li&gt;
