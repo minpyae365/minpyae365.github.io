@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Portfolio - Review</title><link href="https://minpyae365.github.io/" rel="alternate"></link><link href="https://minpyae365.github.io/feeds/review.atom.xml" rel="self"></link><id>https://minpyae365.github.io/</id><updated>2021-06-03T10:20:00+08:00</updated><entry><title>Flask Blog</title><link href="https://minpyae365.github.io/flask-blog.html" rel="alternate"></link><published>2021-06-03T10:20:00+08:00</published><updated>2021-06-03T10:20:00+08:00</updated><author><name>Steven</name></author><id>tag:minpyae365.github.io,2021-06-03:/flask-blog.html</id><summary type="html">&lt;h2&gt;A blog web application&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Portfolio - Review</title><link href="https://minpyae365.github.io/" rel="alternate"></link><link href="https://minpyae365.github.io/feeds/review.atom.xml" rel="self"></link><id>https://minpyae365.github.io/</id><updated>2022-05-24T12:00:00+08:00</updated><entry><title>Django Portfolio</title><link href="https://minpyae365.github.io/django-portfolio.html" rel="alternate"></link><published>2022-05-24T12:00:00+08:00</published><updated>2022-05-24T12:00:00+08:00</updated><author><name>Steven</name></author><id>tag:minpyae365.github.io,2022-05-24:/django-portfolio.html</id><summary type="html">&lt;h2&gt;A blog web application&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This is a CRUD portfolio webapp I made to replace this website produced with pelican static site generator as the functions are limited for me.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated a Postgres database for production level.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Amazon S3 bucket to serve static files.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Login as admin to change or add …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;A blog web application&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This is a CRUD portfolio webapp I made to replace this website produced with pelican static site generator as the functions are limited for me.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated a Postgres database for production level.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Amazon S3 bucket to serve static files.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Login as admin to change or add content of webapp. (eg. change introduction, add projects, add blog articles, etc..)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Once I have made this project to my liking, this static site will be shut down and replaced the project completly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Planning to integrate React for frontend.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deployed live on Heroku.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="Text Alt" src="/images/django_portfolio.PNG"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://djangoportfolioproject.herokuapp.com/"&gt;Link to the blog&lt;/a&gt;&lt;/p&gt;</content><category term="Review"></category><category term="Python"></category><category term="Django"></category><category term="Web Development"></category><category term="Bootstrap"></category><category term="Postgres"></category></entry><entry><title>Flask Blog</title><link href="https://minpyae365.github.io/flask-blog.html" rel="alternate"></link><published>2021-06-03T10:20:00+08:00</published><updated>2021-06-03T10:20:00+08:00</updated><author><name>Steven</name></author><id>tag:minpyae365.github.io,2021-06-03:/flask-blog.html</id><summary type="html">&lt;h2&gt;A blog web application&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;This is a CRUD app I made coding along with Corey Schafer's youtube series.&lt;/p&gt;
@@ -36,4 +73,4 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img alt="Text Alt" src="/images/flaskblog.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://stevenflaskblog.herokuapp.com/"&gt;Link to the blog&lt;/a&gt;&lt;/p&gt;</content><category term="Review"></category><category term="Python"></category><category term="Flask"></category><category term="Jinja"></category><category term="Web Development"></category><category term="Bootstrap"></category><category term="Database"></category></entry></feed>
+&lt;p&gt;&lt;a href="https://stevenflaskblog.herokuapp.com/"&gt;Link to the blog&lt;/a&gt;&lt;/p&gt;</content><category term="Review"></category><category term="Python"></category><category term="Flask"></category><category term="Web Development"></category><category term="Bootstrap"></category></entry></feed>

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="Steven">
-  <meta name="description" content="A listing of all articles on this site">
+  <meta name="description" content="Django Portfolio | A blog web application This is a CRUD portfolio webapp I made to replace this website produced with pelican static site generator as...">
 
   <!--
   <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
@@ -27,9 +27,16 @@
 
   <link href="https://minpyae365.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Portfolio Full Atom Feed" />
 
-  <meta name="keywords" content="Python, Django, Web Development, Bootstrap, Postgres, Data Analysis, Data Visualization, Data Science, Machine Learning, AWS, Flask, Jupyter Notebook">
+<meta name="keywords" content="Python, Django, Web Development, Bootstrap, Postgres">
 
-  <title>Archive</title>
+<meta property="og:title" content="Django Portfolio">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="https://">
+<meta property="og:description" content="A blog web application This is a CRUD portfolio webapp I made to replace this website produced with pelican static site generator as the functions are limited for me. Integrated a Postgres database for production level. Amazon S3 bucket to serve static files. Login as admin to change or add …">
+<meta property="og:url" content="https:///articles/django-portfolio.html">
+
+
+  <title>Django Portfolio</title>
 
   
 </head>
@@ -87,7 +94,7 @@
                 <a href="https://minpyae365.github.io/tag/postgres.html" >Postgres (1)</a> &#124; 
                 <a href="https://minpyae365.github.io/tag/python.html" >Python (4)</a> &#124; 
                 <a href="https://minpyae365.github.io/tag/web-development.html" >Web Development (2)</a> &#124; 
-                <a href="https://minpyae365.github.io/archives.html" class="active">Archives (4)</a>
+                <a href="https://minpyae365.github.io/archives.html" >Archives (4)</a>
         </div>
     </div>
 
@@ -101,31 +108,48 @@
               <div id="main" class="site-main" role="main">
                 <div class="article-container">
 <article>
-  <div class="article_text">
-    <dl>
-        <h2>2022</h2>
-          <h3>May</h3>
-          <ul>
-              <li><a href="https://minpyae365.github.io/django-portfolio.html"><time datetime="2022-05-24T12:00:00+08:00">May 24, 2022</time> - Django Portfolio</a></li>
-          </ul>
-          <h3>February</h3>
-          <ul>
-              <li><a href="https://minpyae365.github.io/new-taipei-city-house-prediction.html"><time datetime="2022-02-21T10:20:00+08:00">Feb 21, 2022</time> - New Taipei City House Prediction</a></li>
-          </ul>
-        <h2>2021</h2>
-          <h3>June</h3>
-          <ul>
-              <li><a href="https://minpyae365.github.io/flask-blog.html"><time datetime="2021-06-03T10:20:00+08:00">Jun 03, 2021</time> - Flask Blog</a></li>
-          </ul>
-        <h2>2020</h2>
-          <h3>December</h3>
-          <ul>
-              <li><a href="https://minpyae365.github.io/battle-of-neighborhoods.html"><time datetime="2020-12-03T10:20:00+08:00">Dec 03, 2020</time> - Battle of Neighborhoods</a></li>
-          </ul>
-    </dl>
+  <div class="blog-item-wrap">
+    <div class="post-inner-content">
+      <header class="entry-header page-header">
+        <span class="cat-item"><time datetime="2022-05-24 12:00:00+08:00">May , 2022</time></span>
+        <h1 class="entry-title"><a href="https://minpyae365.github.io/django-portfolio.html">Django Portfolio</a></h1>
+      </header><!-- .entry-header -->
+      <div class="fb-like" data-href="https://minpyae365.github.io/django-portfolio.html" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+      <div class="entry-content">
+        <h2>A blog web application</h2>
+<ul>
+<li>
+<p>This is a CRUD portfolio webapp I made to replace this website produced with pelican static site generator as the functions are limited for me.</p>
+</li>
+<li>
+<p>Integrated a Postgres database for production level.</p>
+</li>
+<li>
+<p>Amazon S3 bucket to serve static files.</p>
+</li>
+<li>
+<p>Login as admin to change or add content of webapp. (eg. change introduction, add projects, add blog articles, etc..)</p>
+</li>
+<li>
+<p>Once I have made this project to my liking, this static site will be shut down and replaced the project completly.</p>
+</li>
+<li>
+<p>Planning to integrate React for frontend.</p>
+</li>
+<li>
+<p>Deployed live on Heroku.</p>
+</li>
+</ul>
+<p><img alt="Text Alt" src="/images/django_portfolio.PNG"></p>
+<p><a href="https://djangoportfolioproject.herokuapp.com/">Link to the blog</a></p>
+      </div><!-- .entry-content -->
+      <br /><br />
+      <div class="article_meta">
+        Tags:
+          <a href="https://minpyae365.github.io/tag/python.html">Python</a>,          <a href="https://minpyae365.github.io/tag/django.html">Django</a>,          <a href="https://minpyae365.github.io/tag/web-development.html">Web Development</a>,          <a href="https://minpyae365.github.io/tag/bootstrap.html">Bootstrap</a>,          <a href="https://minpyae365.github.io/tag/postgres.html">Postgres</a>      </div>
+    </div>
   </div>
-  <div class="article_meta"></div>
-</article>
+</article><!-- #post-## -->
                 </div>
               </div><!-- #main -->
           </div><!-- #primary -->
@@ -163,6 +187,7 @@
 
 <script type="text/javascript" src="https://minpyae365.github.io/theme/js/functions.min.js"></script>
  
+
 
 </body>
 </html>
